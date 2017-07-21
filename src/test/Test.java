@@ -5,6 +5,8 @@ public class Test {
 		System.out.print("增加22");
 	}
 	public static void main(String[] args) {
+		System.out.print("gogogo");
 		System.out.print("333");
+		System.out.print("master go!");
 	}
 }
