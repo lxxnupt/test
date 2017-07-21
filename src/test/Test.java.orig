@@ -1,0 +1,14 @@
+package test;
+
+public class Test {
+	public void add(){
+		System.out.print("增加22");
+	}
+	public static void main(String[] args) {
+<<<<<<< dev
+		System.out.print("333");
+=======
+		System.out.print("master go!");
+>>>>>>> local
+	}
+}
