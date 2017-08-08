@@ -7,6 +7,6 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.print("gogogo");
 		System.out.print("gogogo33");
-		System.out.print("开发完毕！");
+		System.out.print("开发完毕222！");
 	}
 }
